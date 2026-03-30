@@ -1,2 +1,2 @@
 # mi-primer-repositorio
-Mi primer repositorio en GutHub 
+Mi primer repositorio en GitHub 
